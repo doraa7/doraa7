@@ -2,7 +2,7 @@
 
 Currently I'm working as the CTO of Vincisive Technologies, a Bengaluru, India-based firm specializing in ERP Systems, particularly ERPNext. My primary focus in my role as CTO at the Digital Transformation company has been implementing the ERPNext system and developing an ecosystem for it, including developing Custom Applications on Kubernetes.
 
-Our choice of deployment in my current organization and earlier in past organizations have been Kubernetes. We choose to self-host the services and infrastructure on Kubernetes unless the costs (of Developer and DevOps) outweigh Saas Services. Istio, Prometheus, Grafana, Loki, and the complete applications stack are typically self-hosted on Kubernetes hosted in the cloud rather than being used as SaaS services by cloud vendors like GCP or AWS or by outside vendors. Most of our clients are price-conscious, so it affords us flexibility and cost savings.
+Our choice of deployment in my current organization and earlier in past organizations have been Kubernetes. We choose to self-host the services and infrastructure on Kubernetes unless the costs (of Developer and DevOps) outweigh Saas Services. Istio, Prometheus, Grafana, Loki, Jaeger and the complete applications stack are typically self-hosted on Kubernetes hosted in the cloud rather than being used as SaaS services by cloud vendors like GCP or AWS or by outside vendors. Most of our clients are price-conscious, so it affords us flexibility and cost savings.
 
 I love OSS and I'm part of Many Slack Groups interacting with experts in respective groups.
 
